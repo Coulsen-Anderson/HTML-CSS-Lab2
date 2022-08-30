@@ -1,0 +1,72 @@
+body {
+    margin: 0%;
+}
+
+.gray-container {
+    background-color: lightslategray;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.blue-box {
+    background-color: blue;
+    height: 50px;
+    width: 50px;
+    margin-left: 30px;
+}
+p {
+    padding: 25px;
+}
+
+.white-container {
+    background-color: white;
+    height: 300px;
+    width: 100%;
+    display: flex;
+}
+
+
+.blue-container {
+    background-color: #5E66FD;
+    height: 100px;
+    width: 100%;
+}
+
+.teal-container {
+    background-color: turquoise;
+    height: 100px;
+    width: 100%;
+}
+
+.puke-container {
+    background-color: yellowgreen;
+    height: 100px;
+    width: 100%;
+}
+
+.yellow-container {
+    background-color: yellow;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+
+}
+
+.questionMark {
+    background-color: black;
+    color: white;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 23pt;
+    margin: 10px;
+}
+
+
